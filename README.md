@@ -192,4 +192,4 @@ console.log(rex.descreverCuidados());
 
 Feito com 💙 por **Vinícius Valentim Dos Santos** como atividade de Programação Orientada a Objetos.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Viniiwxz7-181717?style=flat&logo=github)](https://github.com/Viniiwxz7)
+[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=flat&logo=github)](https://github.com/Viniiwxz7)
