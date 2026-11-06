@@ -116,12 +116,12 @@ clinica-veterinaria/
 ├── tsconfig.json
 ├── .gitignore
 └── src/
-    ├── animais/
+    ├── Animais/
     │   ├── Animal.ts
     │   ├── Cachorro.ts
     │   ├── Gato.ts
     │   └── Ave.ts
-    ├── funcionarios/
+    ├── Funcionarios/
     │   ├── Funcionario.ts
     │   ├── Veterinario.ts
     │   └── Recepcionista.ts
@@ -144,15 +144,15 @@ cd clinica-veterinaria
 # 3. Instale as dependências
 npm install
 
-# 4. Execute o arquivo principal
-npx ts-node src/main.ts
+# 4. Compile e execute o projeto
+npm start
 ```
 
 ## 💡 Exemplo de uso
 
 ```typescript
-import { Cachorro } from "./animais/Cachorro";
-import { Gato } from "./animais/Gato";
+import { Cachorro } from "./Animais/Cachorro";
+import { Gato } from "./Animais/Gato";
 
 const rex = new Cachorro("Rex", 3, "Ana");
 const mia = new Gato("Mia", 2, "Carlos");
