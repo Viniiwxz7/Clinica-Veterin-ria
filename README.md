@@ -178,9 +178,9 @@ console.log(rex.descreverCuidados());
 - [x] Classe abstrata `Funcionario` (com encapsulamento do salário)
 - [x] `Veterinario`
 - [x] `Recepcionista`
-- [ ] `Consulta`
-- [ ] `Clinica`
-- [ ] Arquivo de teste `main.ts`
+- [x] `Consulta`
+- [x] `Clinica`
+- [x] Arquivo de teste `main.ts`
 
 ## 🛠️ Tecnologias
 
