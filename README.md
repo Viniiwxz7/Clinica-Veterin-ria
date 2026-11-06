@@ -176,7 +176,7 @@ console.log(rex.descreverCuidados());
 - [x] Classe abstrata `Animal`
 - [x] `Cachorro`, `Gato` e `Ave`
 - [x] Classe abstrata `Funcionario` (com encapsulamento do salário)
-- [ ] `Veterinario`
+- [x] `Veterinario`
 - [ ] `Recepcionista`
 - [ ] `Consulta`
 - [ ] `Clinica`
