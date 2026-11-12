@@ -136,7 +136,7 @@ clinica-veterinaria/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/Viniiwxz7/Clinica-Veterin-ria.git
 
 # 2. Entre na pasta do projeto
 cd clinica-veterinaria
